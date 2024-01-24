@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jorge579
+- 👋 Hi, I’m Jorge
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning about programing languages and software engineering principles.
+- 🌱 I’m currently learning about programming languages and software engineering principles.
 
 <!---
 jorge579/jorge579 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
