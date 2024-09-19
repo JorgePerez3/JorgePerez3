@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jorge
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning about programming languages and software engineering principles.
+- 👋 Hi, I’m Jorge Perez
+- 👀 I’m a Software Engineering student at University of Puerto Rico in Mayaguez
+
 
 <!---
 jorge579/jorge579 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
